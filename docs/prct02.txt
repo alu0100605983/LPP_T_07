@@ -1,1 +1,9 @@
-Trabajo en equipo con git
+Diferencia entre compilacion e interpretacion
+
+Para que un programa pueda ser ejecutado por la máquina ésta debe entenderlo, para ello
+disponemos de dos herramientas: 
+
+- Los intérpretes, que hacen de intermediarios entre el código
+fuente y la máquina y permiten la ejecución directa del código. 
+- Los compiladores, que traducen el código fuente desde un lenguaje de alto nivel a lenguaje
+ensamblador o máquina, para que pueda ser ejecutado cuantas veces se desee por el ordenador.
